@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactapp-covid19tracker/static/css/main.99eb3ecd.chunk.css",
+    "main.js": "/reactapp-covid19tracker/static/js/main.c85c87a7.chunk.js",
+    "main.js.map": "/reactapp-covid19tracker/static/js/main.c85c87a7.chunk.js.map",
+    "runtime-main.js": "/reactapp-covid19tracker/static/js/runtime-main.82e29ba3.js",
+    "runtime-main.js.map": "/reactapp-covid19tracker/static/js/runtime-main.82e29ba3.js.map",
+    "static/css/2.03ec7047.chunk.css": "/reactapp-covid19tracker/static/css/2.03ec7047.chunk.css",
+    "static/js/2.aef2cd34.chunk.js": "/reactapp-covid19tracker/static/js/2.aef2cd34.chunk.js",
+    "static/js/2.aef2cd34.chunk.js.map": "/reactapp-covid19tracker/static/js/2.aef2cd34.chunk.js.map",
+    "index.html": "/reactapp-covid19tracker/index.html",
+    "static/css/2.03ec7047.chunk.css.map": "/reactapp-covid19tracker/static/css/2.03ec7047.chunk.css.map",
+    "static/css/main.99eb3ecd.chunk.css.map": "/reactapp-covid19tracker/static/css/main.99eb3ecd.chunk.css.map",
+    "static/js/2.aef2cd34.chunk.js.LICENSE.txt": "/reactapp-covid19tracker/static/js/2.aef2cd34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82e29ba3.js",
+    "static/css/2.03ec7047.chunk.css",
+    "static/js/2.aef2cd34.chunk.js",
+    "static/css/main.99eb3ecd.chunk.css",
+    "static/js/main.c85c87a7.chunk.js"
+  ]
+}
